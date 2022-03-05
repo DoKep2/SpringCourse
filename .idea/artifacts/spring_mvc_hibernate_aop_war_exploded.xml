@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spring_mvc_hibernate_aop:war exploded">
+    <output-path>$PROJECT_DIR$/spring_mvc_hibernate_aop/target/spring_mvc_hibernate_aop</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>spring_mvc_hibernate_aop</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spring_mvc_hibernate_aop" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/spring_mvc_hibernate_aop/target/spring_mvc_hibernate_aop/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="spring_mvc_hibernate_aop/web/Web" />
+    </root>
+  </artifact>
+</component>

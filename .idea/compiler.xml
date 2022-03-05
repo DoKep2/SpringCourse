@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring_MVC" />
+        <module name="spring_mvc_hibernate_aop" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring_MVC" target="1.7" />
+      <module name="spring_mvc_hibernate_aop" target="1.7" />
+      <module name="springCourse" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

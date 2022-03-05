@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring_MVC/Spring_MVC.iml" filepath="$PROJECT_DIR$/Spring_MVC/Spring_MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_intro/springCourse.iml" filepath="$PROJECT_DIR$/Spring_intro/springCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_mvc_hibernate_aop/spring_mvc_hibernate_aop.iml" filepath="$PROJECT_DIR$/spring_mvc_hibernate_aop/spring_mvc_hibernate_aop.iml" />
+    </modules>
+  </component>
+</project>
