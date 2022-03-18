@@ -4,6 +4,7 @@
     <file type="web" url="file://$PROJECT_DIR$/Spring_MVC" />
     <file type="web" url="file://$PROJECT_DIR$/spring_mvc_hibernate_aop" />
     <file type="web" url="file://$PROJECT_DIR$/Spring_rest" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring_security" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -13,6 +14,7 @@
         <option value="$PROJECT_DIR$/spring_mvc_hibernate_aop/pom.xml" />
         <option value="$PROJECT_DIR$/Spring_rest/pom.xml" />
         <option value="$PROJECT_DIR$/Spring_Rest_client/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_security/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

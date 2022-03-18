@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring_Rest_client/Spring_Rest_client.iml" filepath="$PROJECT_DIR$/Spring_Rest_client/Spring_Rest_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring_rest/Spring_rest.iml" filepath="$PROJECT_DIR$/Spring_rest/Spring_rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring_intro/Spring_rest_client/Spring_rest_client.iml" filepath="$PROJECT_DIR$/Spring_intro/Spring_rest_client/Spring_rest_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_security/Spring_security.iml" filepath="$PROJECT_DIR$/Spring_security/Spring_security.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring_intro/springCourse.iml" filepath="$PROJECT_DIR$/Spring_intro/springCourse.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_mvc_hibernate_aop/spring_mvc_hibernate_aop.iml" filepath="$PROJECT_DIR$/spring_mvc_hibernate_aop/spring_mvc_hibernate_aop.iml" />
     </modules>
