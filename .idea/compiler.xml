@@ -7,12 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring_MVC" />
+        <module name="Spring_Rest_client" />
         <module name="spring_mvc_hibernate_aop" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Spring_MVC" target="1.7" />
       <module name="spring_mvc_hibernate_aop" target="1.7" />
+      <module name="Spring_rest" target="1.7" />
+      <module name="Spring_Rest_client" target="1.7" />
+      <module name="Spring_rest_client" target="1.7" />
       <module name="springCourse" target="1.7" />
     </bytecodeTargetLevel>
   </component>

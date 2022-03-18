@@ -8,9 +8,6 @@
   <artifactId>springCourse</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>spring_mvc_hibernate_aop</module>
-    </modules>
 
     <name>springCourse</name>
   <!-- FIXME change it to the project's website -->

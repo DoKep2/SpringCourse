@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/Spring_MVC" />
     <file type="web" url="file://$PROJECT_DIR$/spring_mvc_hibernate_aop" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring_rest" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -10,7 +11,14 @@
         <option value="$PROJECT_DIR$/Spring_intro/pom.xml" />
         <option value="$PROJECT_DIR$/Spring_MVC/pom.xml" />
         <option value="$PROJECT_DIR$/spring_mvc_hibernate_aop/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_Rest_client/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Spring_intro/Spring_rest_client/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK">
