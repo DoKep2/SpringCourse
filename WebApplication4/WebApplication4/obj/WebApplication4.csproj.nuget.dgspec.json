@@ -1,0 +1,49 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sergo\\Downloads\\ppp~\\WebApplication4\\WebApplication4\\WebApplication4.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sergo\\Downloads\\ppp~\\WebApplication4\\WebApplication4\\WebApplication4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sergo\\Downloads\\ppp~\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+        "projectName": "WebApplication4.csproj",
+        "projectPath": "C:\\Users\\sergo\\Downloads\\ppp~\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+        "packagesPath": "C:\\Users\\sergo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sergo\\Downloads\\ppp~\\WebApplication4\\WebApplication4\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\sergo\\NuGet.Config",
+          "C:\\Users\\sergo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Formatters.Xml": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.CodeDom.Providers.DotNetCompilerPlatform": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
